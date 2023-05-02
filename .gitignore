@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 .gradle/
 
 build/
+=======
+.gradle
+build
+bin
+.idea
+.vscode
+>>>>>>> 57358dd809ce1789d8fdd7697e2ea57e4fe6d9a8
